@@ -49,7 +49,7 @@ Feel free to contribute improvements to this project. You can open a pull reques
     License
 </h1>
 
-This project is licensed under the MIT License. See the [LICENSE]() file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/7kfelix/videodownloadserver/blob/main/LICENSE) file for more details.
 
 <h1>
     Contact
